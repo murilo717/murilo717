@@ -1,3 +1,5 @@
+
+
 # Murilo Marques Moura
 
 ### 🚀 Estudante de Engenharia de Software-UNEB
@@ -9,8 +11,20 @@ Sou um desenvolvedor de nível **intermediário** com foco em arquitetura de sis
 
 ### 🛠️ Toolbox (Habilidades Técnicas)
 
-- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-- **Frontend (Base):** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **Linguagens:** <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" alt="C" />
+    </div>
+
+
+- **Ferramentas:**  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="45" height="45" alt="Jira" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45" height="45" alt="Canva" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
+  </div>
+
 - **Foco Atual:** Estrutura de dados, Algoritmos e Integração de Sistemas.
 
 ---
