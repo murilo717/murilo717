@@ -17,10 +17,25 @@ Sou um desenvolvedor de nível **intermediário** com foco em arquitetura de sis
 
 ### 📊 Estatísticas do GitHub (murilo717)
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo717&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo717&layout=compact&theme=tokyonight"/>
-</p>
+<a href="https://github-stats-extended.vercel.app/api?username=murilo717">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=murilo717&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=murilo717&theme=light_github" />
+  </picture>
+</a>
+</div>
+
+
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=murilo717&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=murilo717&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
 
 ---
 
