@@ -11,10 +11,13 @@ Sou um desenvolvedor de nível **intermediário** com foco em arquitetura de sis
 
 ### 🛠️ Toolbox (Habilidades Técnicas)
 
+<img align="right" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" width="250" alt="Gif do Pinterest">
+
 - **Linguagens:** <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" alt="C" />
     </div>
+
 
 
 - **Ferramentas:**  <div align="left">
@@ -23,6 +26,8 @@ Sou um desenvolvedor de nível **intermediário** com foco em arquitetura de sis
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45" height="45" alt="Canva" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    width="45" heigh="45" alt="Mysql" />
   </div>
 
 - **Foco Atual:** Estrutura de dados, Algoritmos e Integração de Sistemas.
